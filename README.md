@@ -21,7 +21,7 @@ node test1.js
 ```
 
 ## What to expect:
-
+![screenshot](./screenshot.png)
 
 ## How to change parameters
 
