@@ -1,0 +1,27 @@
+{
+  "name": "web3_bombarder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/broadcastmonkey/web3_bombarder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/broadcastmonkey/web3_bombarder/issues"
+  },
+  "homepage": "https://github.com/broadcastmonkey/web3_bombarder#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "dotenv": "^16.3.1",
+    "noble": "^1.9.1",
+    "to-bool": "^0.0.1",
+    "web3": "^4.2.2"
+  }
+}
